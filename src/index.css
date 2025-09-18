@@ -13,3 +13,15 @@
 .flex-between{
     @apply flex justify-between
 }
+
+.footer-heading{
+    @apply font-bold text-sm mb-3
+}
+
+.text-color{
+    @apply text-[#696969]
+}
+
+.footer-a{
+    @apply text-[#696969] text-sm font-sans my-1
+}
